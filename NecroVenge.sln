@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecroVenge", "NecroVenge.csproj", "{71D044DC-E41A-BC31-C63B-DEC66E5A58C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecroVenge.Plugins", "NecroVenge.Plugins.csproj", "{1DAC7838-ACAD-5819-B731-4F6FF3429236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecroVenge.Editor", "NecroVenge.Editor.csproj", "{AE60FAB5-56FC-C0DC-80EF-E753A62F3EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecroVenge.Editor.Plugins", "NecroVenge.Editor.Plugins.csproj", "{1A18A711-E7B1-D1D3-A127-E131E96520CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D044DC-E41A-BC31-C63B-DEC66E5A58C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D044DC-E41A-BC31-C63B-DEC66E5A58C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D044DC-E41A-BC31-C63B-DEC66E5A58C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D044DC-E41A-BC31-C63B-DEC66E5A58C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DAC7838-ACAD-5819-B731-4F6FF3429236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAC7838-ACAD-5819-B731-4F6FF3429236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAC7838-ACAD-5819-B731-4F6FF3429236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAC7838-ACAD-5819-B731-4F6FF3429236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE60FAB5-56FC-C0DC-80EF-E753A62F3EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE60FAB5-56FC-C0DC-80EF-E753A62F3EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE60FAB5-56FC-C0DC-80EF-E753A62F3EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE60FAB5-56FC-C0DC-80EF-E753A62F3EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A18A711-E7B1-D1D3-A127-E131E96520CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A18A711-E7B1-D1D3-A127-E131E96520CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A18A711-E7B1-D1D3-A127-E131E96520CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A18A711-E7B1-D1D3-A127-E131E96520CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
